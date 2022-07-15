@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1657855003572
+  login: 1657854991713
+money: '0'
+last-account-name: VirtualizedTrash
+lastlocation:
+  world: 5071854b-df9c-47d1-9843-0c3023b39f62
+  world-name: Spawn
+  x: -11.696319390094276
+  y: -39.0
+  z: 54.12115372948108
+  yaw: -179.969970703125
+  pitch: 15.930888175964355
+logoutlocation:
+  world: 5071854b-df9c-47d1-9843-0c3023b39f62
+  world-name: Spawn
+  x: -8.72153670999158
+  y: -40.0
+  z: 54.156729333427535
+  yaw: -1.6015841960906982
+  pitch: 7.67379093170166

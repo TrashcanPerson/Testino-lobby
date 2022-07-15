@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.21.54.50
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1657704597761
+  login: 1657704523310
+money: '0'
+last-account-name: UnformedCorn167
+lastlocation:
+  world: 570d82b4-9bdc-4594-bf61-2086740f97f8
+  world-name: Lobby
+  x: 0.0
+  y: 64.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 570d82b4-9bdc-4594-bf61-2086740f97f8
+  world-name: Lobby
+  x: 11.676791027931838
+  y: 64.0
+  z: 1.5384393154150484
+  yaw: 43.801666259765625
+  pitch: 15.89996337890625

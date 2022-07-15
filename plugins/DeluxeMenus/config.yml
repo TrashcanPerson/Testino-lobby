@@ -1,0 +1,10 @@
+# DeluxeMenus 1.13.5-DEV-131 main configuration file
+#
+# A full wiki on how to use this plugin can be found at:
+# https://wiki.helpch.at/clips-plugins/deluxemenus
+
+debug: false
+check_updates: true
+gui_menus:
+  vote:
+    file: vote.yml

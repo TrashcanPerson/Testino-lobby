@@ -1,0 +1,109 @@
+[00:01:35] [Server thread/INFO]: VirtualizedTrash lost connection: Disconnected
+[00:01:35] [Server thread/INFO]: - VirtualizedTrash Disconnected
+[00:01:52] [User Authenticator #4/INFO]: UUID of player VirtualizedTrash is 16476372-c18c-4e60-9b69-573cd49ec970
+[00:01:52] [Server thread/INFO]: + VirtualizedTrash Connected
+[00:01:52] [Server thread/INFO]: VirtualizedTrash[/127.0.0.1:51470] logged in with entity id 3654 at ([Spawn]-8.69885111406585, -41.0, 44.8410942868869)
+[00:01:58] [Server thread/INFO]: VirtualizedTrash lost connection: Disconnected
+[00:01:58] [Server thread/INFO]: - VirtualizedTrash Disconnected
+[00:19:57] [User Authenticator #5/INFO]: UUID of player VirtualizedTrash is 16476372-c18c-4e60-9b69-573cd49ec970
+[00:19:57] [Server thread/INFO]: + VirtualizedTrash Connected
+[00:19:57] [Server thread/INFO]: VirtualizedTrash[/127.0.0.1:65441] logged in with entity id 4005 at ([Spawn]-8.69885111406585, -41.0, 44.8410942868869)
+[00:21:49] [Server thread/INFO]: VirtualizedTrash issued server command: /znpcs
+[00:22:08] [Server thread/INFO]: VirtualizedTrash issued server command: /znpcs create 5 PLAYER &3Shop
+[00:22:36] [Server thread/INFO]: VirtualizedTrash issued server command: /znpcs
+[00:22:42] [Server thread/INFO]: VirtualizedTrash issued server command: /znpcs skin 5 /give @p minecraft:player_head{SkullOwner:{Id:[I;-555891550,1108432734,-1274854956,1544032975],Properties:{textures:[{Value:"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWM5ZTg5MjMyOWNiOWI1NGMwY2U5MDY1MTA2N
+[00:23:04] [Server thread/INFO]: VirtualizedTrash issued server command: /znpcs skin 5 xViiRuS
+[00:23:18] [Server thread/INFO]: VirtualizedTrash issued server command: /znpcs action
+[00:23:20] [Server thread/INFO]: VirtualizedTrash issued server command: /znpcs
+[00:23:52] [Server thread/INFO]: VirtualizedTrash issued server command: /znpcs delete 5
+[00:23:54] [Server thread/INFO]: VirtualizedTrash issued server command: /gamemode creative
+[01:11:15] [Server thread/INFO]: VirtualizedTrash lost connection: Disconnected
+[01:11:15] [Server thread/INFO]: - VirtualizedTrash Disconnected
+[01:22:11] [User Authenticator #6/INFO]: UUID of player VirtualizedTrash is 16476372-c18c-4e60-9b69-573cd49ec970
+[01:22:11] [Server thread/INFO]: + VirtualizedTrash Connected
+[01:22:11] [Server thread/INFO]: VirtualizedTrash[/127.0.0.1:61372] logged in with entity id 5175 at ([Spawn]-8.69885111406585, -41.0, 44.8410942868869)
+[01:22:16] [Server thread/INFO]: VirtualizedTrash issued server command: /gamemode creative
+[02:21:53] [Server thread/INFO]: VirtualizedTrash lost connection: Disconnected
+[02:21:53] [Server thread/INFO]: - VirtualizedTrash Disconnected
+[02:43:28] [Craft Scheduler Thread - 359 - Vault/INFO]: [Vault] Checking for Updates ... 
+[02:43:29] [Craft Scheduler Thread - 359 - Vault/INFO]: [Vault] No new version available
+[03:31:43] [User Authenticator #7/INFO]: UUID of player Ses1on is c82e44f2-5bfc-4167-9400-6baedac9724f
+[03:31:43] [Server thread/INFO]: + Ses1on Connected
+[03:31:43] [Server thread/INFO]: Ses1on[/188.105.245.0:59831] logged in with entity id 7527 at ([Spawn]-8.69885111406585, -41.0, 44.8410942868869)
+[03:32:07] [Server thread/INFO]: Ses1on lost connection: Disconnected
+[03:32:07] [Server thread/INFO]: - Ses1on Disconnected
+[08:43:28] [Craft Scheduler Thread - 671 - Vault/INFO]: [Vault] Checking for Updates ... 
+[08:43:29] [Craft Scheduler Thread - 671 - Vault/INFO]: [Vault] No new version available
+[10:39:27] [User Authenticator #8/INFO]: UUID of player Ses1on is c82e44f2-5bfc-4167-9400-6baedac9724f
+[10:39:27] [Server thread/INFO]: + Ses1on Connected
+[10:39:27] [Server thread/INFO]: Ses1on[/188.105.245.0:64372] logged in with entity id 15099 at ([Spawn]-8.69885111406585, -41.0, 44.8410942868869)
+[10:39:33] [Server thread/INFO]: Ses1on lost connection: Disconnected
+[10:39:33] [Server thread/INFO]: - Ses1on Disconnected
+[12:58:03] [User Authenticator #9/INFO]: UUID of player VirtualizedTrash is 16476372-c18c-4e60-9b69-573cd49ec970
+[12:58:03] [Server thread/INFO]: + VirtualizedTrash Connected
+[12:58:03] [Server thread/INFO]: VirtualizedTrash[/127.0.0.1:51573] logged in with entity id 17574 at ([Spawn]-8.69885111406585, -41.0, 44.8410942868869)
+[12:58:11] [Server thread/INFO]: VirtualizedTrash lost connection: Disconnected
+[12:58:11] [Server thread/INFO]: - VirtualizedTrash Disconnected
+[14:43:28] [Craft Scheduler Thread - 997 - Vault/INFO]: [Vault] Checking for Updates ... 
+[14:43:29] [Craft Scheduler Thread - 997 - Vault/INFO]: [Vault] No new version available
+[19:19:35] [User Authenticator #10/INFO]: UUID of player EliteFuzzy is 242a7c75-f70e-4961-abb5-888f0f99f051
+[19:19:35] [Server thread/INFO]: + EliteFuzzy Connected
+[19:19:35] [Server thread/INFO]: EliteFuzzy[/151.210.150.71:61075] logged in with entity id 24306 at ([Spawn]-8.69885111406585, -41.0, 44.8410942868869)
+[19:19:44] [Server thread/INFO]: EliteFuzzy lost connection: Disconnected
+[19:19:44] [Server thread/INFO]: - EliteFuzzy Disconnected
+[20:16:31] [User Authenticator #11/INFO]: UUID of player VirtualizedTrash is 16476372-c18c-4e60-9b69-573cd49ec970
+[20:16:31] [Server thread/INFO]: + VirtualizedTrash Connected
+[20:16:31] [Server thread/INFO]: VirtualizedTrash[/127.0.0.1:54677] logged in with entity id 25372 at ([Spawn]-8.69885111406585, -41.0, 44.8410942868869)
+[20:16:43] [Server thread/INFO]: VirtualizedTrash lost connection: Disconnected
+[20:16:43] [Server thread/INFO]: - VirtualizedTrash Disconnected
+[20:16:59] [Server thread/INFO]: Stopping the server
+[20:16:59] [Server thread/INFO]: Stopping server
+[20:16:59] [Server thread/INFO]: [WorldGuardExtraFlags] Disabling WorldGuardExtraFlags v4.1.5-SNAPSHOT
+[20:16:59] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.7+216b061
+[20:16:59] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[20:16:59] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.19.4
+[20:16:59] [Server thread/INFO]: [ChatManager] Disabling ChatManager v3.7.7
+[20:16:59] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: chatmanager
+[20:16:59] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.3.0
+[20:16:59] [Server thread/INFO]: [hsqldb.db.HSQLDB7855F25F31.ENGINE] Database closed
+[20:16:59] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[20:16:59] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[20:16:59] [Server thread/INFO]: Disabling AdvancedBan on Version 2.3.0
+[20:16:59] [Server thread/INFO]: Coded by Leoko | Twitter: @LeokoGar
+[20:16:59] [Server thread/INFO]: [DeluxeMenus] Disabling DeluxeMenus v1.13.5-DEV-131
+[20:16:59] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.4
+[20:16:59] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[20:16:59] [Server thread/INFO]: [DeluxeHub] Disabling DeluxeHub v3.5.1
+[20:16:59] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.2.1-SNAPSHOT-184;d1f3ac8
+[20:16:59] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[20:16:59] [Server thread/INFO]: [BlockParticles] Disabling BlockParticles v1.11.1-RELEASE
+[20:16:59] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.1-b861
+[20:16:59] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[20:16:59] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: vault
+[20:16:59] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.4.8
+[20:16:59] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.4.8 disabled.
+[20:16:59] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.25
+[20:16:59] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: luckperms
+[20:16:59] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:16:59] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:16:59] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:16:59] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.8.0
+[20:16:59] [Server thread/INFO]: [ServersNPC] Disabling ServersNPC v3.7
+[20:16:59] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v3.0.0-SNAPSHOT-b205
+[20:16:59] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.3.2-SNAPSHOT
+[20:16:59] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[20:16:59] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.1
+[20:16:59] [Server thread/INFO]: [PL-Hide] Disabling PL-Hide v1.5.20
+[20:16:59] [Server thread/INFO]: [VoidGen] Disabling VoidGen v2.2.1
+[20:16:59] [Server thread/INFO]: Saving players
+[20:17:00] [Server thread/INFO]: Saving worlds
+[20:17:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:17:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Lobby]'/minecraft:lobby
+[20:17:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Spawn]'/minecraft:spawn
+[20:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (Lobby): All chunks are saved
+[20:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (Spawn): All chunks are saved
+[20:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:17:01] [Server thread/INFO]: Flushing Chunk IO
+[20:17:01] [Server thread/INFO]: Closing Thread Pool
+[20:17:01] [Server thread/INFO]: Closing Server

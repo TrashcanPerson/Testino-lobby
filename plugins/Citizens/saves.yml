@@ -1,0 +1,211 @@
+# Citizens NPC Storage
+
+
+
+
+
+
+last-created-npc-id: 3
+npc:
+  '1':
+    metadata:
+      ambient-sound: ''
+      cached-skin-uuid-name: skyblock
+      cached-skin-uuid: d36d835f-e707-4d43-8286-14ed7c325ac2
+      death-sound: ''
+      nameplate-visible: 'false'
+      hurt-sound: ''
+      silent-sounds: true
+    name: skyblock
+    uuid: cd6b3864-2f5d-4288-acf1-5935e241391c
+    traits:
+      location:
+        bodyYaw: 178.05084
+        world: Lobby
+        x: '-3.5'
+        y: '65.0'
+        z: '11.5'
+        yaw: '178.0508'
+        pitch: '0.0'
+      type: VILLAGER
+      skintrait:
+        fetchDefaultSkin: true
+        signature: CPiwG3roWjyaYGXeE313qV2O9QXOYUx1z1TkDlNeJoKbc2ijAqEODyXa1EPS2c6L7G+CGhdRdxJSyv4VXRoEVd0N3Re8ZQuFCUwCqF/BQ6AkMKggQILuKxjJqKTb7Rcp5TGHZtfOyqwFFxDldtMQdNwq6UbaVBe5L6QzHSu+/oax19zHNC9NgicJEAe6MPk5S56d3j7IGn+Ph1qkLNAT7CzPk50/Pqi3Q7+KEa62xgmebxF1KJI8DlMryQ2NeSsse/UV1/bTXkRgQpqnlq7YWSR2FP2UsEodPyb9LGqvwqSM7gs+WZ6YdUAm4zsjdnh9N08BWxBTqhJCm2GhDjrMce+hhrjZaRQVJ5U8rq8qaClf3nb3YrKUb9KO3y4sUE/8yPyCv/vdz7IxXkL/Ox+4/+HjJxTZRN1CSzDNzAyIbegsAfow00zWz3VXQrWgct2isVF+5LOLNSN0BW53I9GqOtysqSt+17aBBh62KZGuSpdOCS/DMrFOaRMDxNw+bd8t57Mc1Q4+LXmAbkXdHSTqLL6lm/T9GDQtZyBeSU7R92hje07kVW4u1YQw95vZ5oOE6owgcbD1dLt4rketQfHz8ph26wRLZVwz5/X3QiiRnaKJhwmREBHzT5YAug9A6XtI1bLUjQralLOAjRMqBOVUltgZPoLJCmMo1+JXGEX/hOU=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYyNjI3MjQwODgwOSwKICAicHJvZmlsZUlkIiA6ICJkMzZkODM1ZmU3MDc0ZDQzODI4NjE0ZWQ3YzMyNWFjMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3lCbG9jayIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMmI2MTJkOTAzMmIzZWVmMjNhM2NiZGViYjIyNjE5ZDg1ZGNmNWZlNjNjMDBkMDc0YzQxZjdlNWUzOTk5Y2Q1IgogICAgfQogIH0KfQ==
+        updateSkins: false
+      Lobbyed: true
+      spawned: true
+      profession: CLERIC
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: server skyblock
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+      owner:
+        uuid: 047f54e0-4dac-40f3-8c40-88e312163ce0
+    traitnames: location,commandtrait,equipment,skintrait,spawned,mounttrait,owner,inventory,type,profession,scoreboardtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '0':
+    metadata:
+      ambient-sound: ''
+      cached-skin-uuid-name: survival
+      cached-skin-uuid: a865229e-503a-4c2d-918f-35857d071d52
+      death-sound: ''
+      nameplate-visible: 'false'
+      hurt-sound: ''
+      silent-sounds: true
+    name: survival
+    uuid: 5c285994-6efa-4957-a8b6-a5115be2996f
+    traits:
+      location:
+        bodyYaw: 178.80072
+        world: Lobby
+        x: '4.5'
+        y: '65.0'
+        z: '11.5'
+        yaw: '178.8007'
+        pitch: '0.0'
+      type: VILLAGER
+      skintrait:
+        fetchDefaultSkin: true
+        signature: nItL7gz9eygtfTY14DGoR9qWrqAEBiSj0OqS9v1z61OE6qx442Bi8vwx6fsPTyQbIOmAH/SPJ0kRTpr6kyxEnvJyfH7+hJL9WSlOKO+iBtbqFl9XpmnM+eG9Q0V+LJtGe5G8SLOczQ4mDUKeEHcTHDJYA2wei5sASzCVhlvh/WRqAr+QeM8oNKJbh7Jyl/gkty+S5Vlv0MEbwC19skWkTpduD9kE3E9DrtMVz9gllhafnX7ev9o9BywM5U7TkdkhCZNgYusO1Z+74ALB5repc5kQJTAwNt8nD+o1NiF54KWEefDL5FvvcfxdKva9Kmf+tStZLRgF156RSTIz7s+YQ56kVB2ZLto1CgboRsE/whd5B9zZRENyLmvC6vH13SDcSYR3bx6Wf5azXBrUYexgXy1AzdM85+qIRTisaL+cxQvDYy1aI8IiKVUSLoYfkDOez3nZSWj2r6bLt4w9MGHMt3N7SY0a/UH1lipZu8gDWgDC+1v97oYl9HMmFsmvQQqXklrAbELnbjNnn6IAqw+EEWaXnMlJ7MmIKyqcQPboSI41eK68Qxi9L4VdIHkcaqyGnrOhaAtB/z7tXFKMT1YupKPl4ctUTTUoE/4HiUAMwLNzGgDa+fOtaB6wsfasOvnWJg0eq05ZIvv6CZaFeALmxLk1ths3F7mYBkgcVETB1XI=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYyNjI3MjM3NTE3NiwKICAicHJvZmlsZUlkIiA6ICJhODY1MjI5ZTUwM2E0YzJkOTE4ZjM1ODU3ZDA3MWQ1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdXJ2aXZhbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYjQwNmJjMWNiYzVmODVjMzQzMjliZjBhMjM2MjUyMzVjNTI5ZWNiMGRmYzVlYWE5NTM5ZDQ0M2UwMGNjMDciCiAgICB9CiAgfQp9
+        updateSkins: false
+      Lobbyed: true
+      spawned: true
+      profession: LIBRARIAN
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: server survival
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+      owner:
+        uuid: 047f54e0-4dac-40f3-8c40-88e312163ce0
+    traitnames: location,commandtrait,equipment,spawned,skintrait,mounttrait,inventory,owner,type,profession,scoreboardtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    metadata:
+      ambient-sound: ''
+      cached-skin-uuid-name: vote
+      cached-skin-uuid: 293028e6-8c56-4bfd-88cf-899ae644f258
+      death-sound: ''
+      nameplate-visible: 'false'
+      hurt-sound: ''
+      silent-sounds: true
+    name: vote
+    uuid: f9d1cfc6-47d7-4741-911a-3332bc25c366
+    traits:
+      type: VILLAGER
+      spawned: true
+      location:
+        bodyYaw: -89.548035
+        world: Lobby
+        x: '-4.5'
+        y: '64.0'
+        z: '-3.5'
+        yaw: '-89.548'
+        pitch: '0.0'
+      skintrait:
+        fetchDefaultSkin: true
+        signature: oSOh2zp/mPitUq8dI2dCXaJfiZ9Jr2dLq8FCX4Z8hGYdMNaZQqz/uf35iYquZHr5f3WYSYqxRuGTKE+box9eVjQlqZA4PgTrLzb06tG7OyOsnqaTXNZxJdzdCoSrAYsWxe/uKJcxXh/NSml2oRC0LSUEJnfqmgLeawb/6CkWx3W0eSrX33loQ4VNZhWL5RYjCKC5//JtE+hAnyBcoguVeYBYZZtk93/wSVQY3gPLfW6uD2xAqxt7v+u7ixWAdw/FZAiL3HmJmp/IrQaLUofT5pCHuEmrhfhdbiip4sig3ZU+a/ajGhA7NXS1oA2kWRgkanQuoEoU4n35yP5zXKtJnMPbI3SqybQogrFiR4+yyS0nJJk+8AkSIm3J3xc0edEbPg0wuiJSYMsLwZXV8hKK7bCoTaHGB0H8QPXysUgnezaeXfHE7WEAL+ibHtx8+qyIn/oP5lMGq98dxzEdDTGRE1EZx5NGdiGbQNPfEbqu44Jh5q2QhFupMbZznPvbea8dj9d4XHhB4+3OQ/vwgzWoy6D71nq17Z3vy9cNiO7+4AZnRx54tuzZd5XMjLtIgIf0SotdPjeNgJRt8d1+v/jLuEybyZerbKuMYXoLnFUYiGnWcfG3i5zKU4OXD43uIuNQkmxyR0NW4BS7uY/W1lJh/JncP5SvURHOEyg70PdXcXg=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYyNjI4MzM1MzU3OSwKICAicHJvZmlsZUlkIiA6ICIyOTMwMjhlNjhjNTY0YmZkODhjZjg5OWFlNjQ0ZjI1OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb3RlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNiNjBhMWY2ZDU2MmY1MmFhZWJiZjE0MzRmMWRlMTQ3OTMzYTNhZmZlMGU3NjRmYTQ5ZWEwNTc1MzY2MjNjZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+        updateSkins: false
+      profession: ARMORER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: vote
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+      owner:
+        uuid: 047f54e0-4dac-40f3-8c40-88e312163ce0
+    traitnames: location,commandtrait,equipment,spawned,skintrait,mounttrait,owner,inventory,type,profession,scoreboardtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '3':
+    metadata:
+      cached-skin-uuid: 4c68e756-739b-4f14-91a2-86b22ff868af
+      ambient-sound: ''
+      death-sound: ''
+      nameplate-visible: 'false'
+      hurt-sound: ''
+      cached-skin-uuid-name: oneblock
+      silent-sounds: true
+    name: oneblock
+    uuid: ad285a8e-1c6f-47d9-ad43-c969a00aea3f
+    traits:
+      location:
+        bodyYaw: -178.60767
+        world: Lobby
+        x: '0.5'
+        y: '65.0'
+        z: '10.5'
+        yaw: '-178.6077'
+        pitch: '0.0'
+      skintrait:
+        fetchDefaultSkin: true
+        signature: hIPI8N+q92uVLBop7C96Q+cYiSGyiuiwu5AnS+Aq/fVTlHsvD0YBq9IrReX3tsekvWHpEX+m0TQFc4Nfhmv80n3wFo9WLJwuAI5MVHxvBknoJ+bEyrpVMvOawdgY38LZNh+w9tG4Ix/CqfhI030z1ftAO4CIfFBM2fhHTROTMHgyvbmJ/YDBzBSv6sorAwG2lt+JPsM6FbYXgXIQMLL1Mcx/oSjufwlmMVMq9UcqrKuIZJn0ZGI+9+T603d1Lp0CHo36E6wdRgnyHlTncqTbLMonVpNN5q6WglbGDasSO/xFtwTIm8v8Hh+qYOVnTEg9QiZhzcT4zeV6gj6mPLuvJlOV2h86Ae4ihgrewLwsCJ+dFW81UvEdWrPLhNj+ETGAuCtB8qf4hjnwba29aqL6bNY7ngRLarhJvLzjT95VQ8OnHkXssplt5EsGh9MdWwLutdQegfHJdc5iwOX1kI0cD/NSdxwNU3s2306c+LJCNQItgveSckrQpGlaCjajuzMEUT3Qqgz7Z8er/gwkGQOunBkjNwMv6hqvTh+R7x+DphCBi3Dy0rdvvAV26BqpHp1UwJFZBrvGzxnSCpwWKFz4pjAyukf4dcby4EC42SCVYgkVq9EwTvpJx7owhfelaL1ehS+07kcEdiSPCs8MSnmf7Vg9hsqtiCLieK2RtGLabd0=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY1NDAzODk1MzE1OCwKICAicHJvZmlsZUlkIiA6ICI0YzY4ZTc1NjczOWI0ZjE0OTFhMjg2YjIyZmY4NjhhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPbmVCbG9jayIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YjE1MjA3ZTgzMzQ1MDM2NjM0YTcxYTQyOTMyZjA5ODM4YzUxMDc0YjI0NTcwZjBjZDBiZDQzZGNmNzAxZDkiCiAgICB9CiAgfQp9
+        updateSkins: false
+      spawned: true
+      owner:
+        uuid: 047f54e0-4dac-40f3-8c40-88e312163ce0
+      type: VILLAGER
+      profession: MASON
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: server oneblock
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+    traitnames: location,commandtrait,skintrait,spawned,mounttrait,owner,inventory,type,profession,scoreboardtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

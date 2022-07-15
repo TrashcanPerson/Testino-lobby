@@ -1,0 +1,13 @@
+locations:
+  skyblock:
+    world: Lobby
+    x: -4
+    y: 64
+    z: 11
+    particle: Snow
+  survival:
+    world: Lobby
+    x: 4
+    y: 64
+    z: 11
+    particle: Snow

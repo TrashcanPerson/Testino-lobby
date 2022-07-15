@@ -1,0 +1,48 @@
+Lobby:
+  location: Lobby, -3.500, 69.000, -11.500
+  lines:
+  - '&6NETWORK NAME'
+  - '&e&m⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯'
+  - '&fWelcome to &6Your Network&f!'
+  - '&fWe hope you will have a wonderful time!'
+  - '&f'
+  - '&fUse the &6Nether Star&f to join a gamemode!'
+  - '&e&m⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯'
+survival:
+  location: Lobby, 4.500, 69.000, 11.500
+  lines:
+  - '&6SURVIVAL'
+  - '&e&m⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯'
+  - '&fExplore the world, build a epic base'
+  - '&fto survive and become one of the best!'
+  - '&f'
+  - '&eClick to connect!'
+  - '&e&m⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯'
+skyblock:
+  location: Lobby, -3.500, 69.000, 11.500
+  lines:
+  - '&6SKYBLOCK'
+  - '&e&m⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯'
+  - '&fTest your survival skills on a single'
+  - '&fisland, upgrade & complete tasks!'
+  - '&f'
+  - '&eClick to connect!'
+  - '&e&m⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯'
+choose:
+  location: Lobby, 0.500, 66.700, 10.500
+  lines:
+  - '&f&l☚ &6Choose a game mode &f&l☛'
+  - '&e&m⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯'
+  - '&fConnect to a game mode by clicking'
+  - '&fon one of the villagers!'
+vote:
+  location: Lobby, -4.500, 67.200, -3.500
+  lines:
+  - '&f&l☛ &6Vote &f&l☚'
+  - '&e&m⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯'
+  - '&fGet various rewards across our'
+  - '&fnetwork by voting for us!'
+classic:
+  location: Lobby, 6.787, 65.794, 4.201
+  lines:
+  - '&e&luse &6&l/server classic &e&lto join Classic survival'
